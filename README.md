@@ -1,6 +1,8 @@
 # Lightweight CI/CD Docker image
-
-![Docker Build Status](https://img.shields.io/docker/build/cunpey/gitlab-ci.svg) ![Docker Build Status](https://img.shields.io/docker/automated/cunpey/gitlab-ci.svg)
+![Docker Stars](https://img.shields.io/docker/stars/cunpey/gitlab-ci.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/cunpey/gitlab-ci.svg)
+![Docker Automated](https://img.shields.io/docker/cloud/automated/cunpey/gitlab-ci.svg)
+![Docker Build](https://img.shields.io/docker/cloud/build/cunpey/gitlab-ci.svg)
 
 #### Created for simple CI/CD Pipelines* such as Bitbucket's or GitLab's.
 
